@@ -1,4 +1,4 @@
-![MasterHead](./bg-g.png)
+![MasterHead](./cover.png)
 <h1 align="center">Hi 👋, I'm Sobirov Muhiddin</h1>
 <h3 align="center">A frontend developer & UI/UX designer</h3>
 
